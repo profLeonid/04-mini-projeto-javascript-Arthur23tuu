@@ -123,13 +123,16 @@ footer p {
 }
 
 .cor-verde {
-  color: #14532d;
+  background-color: #14532d;
+  color: white;
 }
 
 .cor-marrom {
-  color: #713f12;
+  background-color: #713f12;
+  color: white;
 }
 
 .cor-vermelho {
-  color: #7f1d1d;
+  background-color: #7f1d1d;
+  color: white;
 }

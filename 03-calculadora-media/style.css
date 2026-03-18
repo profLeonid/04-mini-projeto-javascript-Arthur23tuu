@@ -123,3 +123,18 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.verde {
+  background-color: #14532d;
+  color: white;
+}
+
+.laranja {
+  background-color: #713f12;
+  color: white;
+}
+
+.vermelho {
+  background-color: #7f1d1d;
+  color: white;
+}
