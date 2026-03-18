@@ -123,3 +123,33 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.Abaixo-Peso {
+  background-color: #1e3a5f;
+  color: white;
+}
+
+.Peso-Normal {
+  background-color: #14532d;
+  color: white;
+}
+
+.Sobrepeso {
+  background-color: #713f12;
+  color: white;
+}
+
+.Obesidade-grau-I {
+  background-color: #7f1d1d;
+  color: white;
+}
+
+.Obesidade-grau-II {
+  background-color: #6b0f0f;
+  color: white;
+}
+
+.Obesidade-grau-III {
+  background-color: #450a0a;
+  color: white;
+}
